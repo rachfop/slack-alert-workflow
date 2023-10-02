@@ -26,6 +26,8 @@ The primary execution logic first attempts to run the `SayHello` workflow. If it
 
 ## How to Run
 
+*Note*: See the tutorial [hello_slack](tutorial/hello_slack.md) for detailed instructions on setting up the Slack webhook integration.
+
 1. Ensure you have Temporal server running locally.
 
 2. Start the Temporal worker by executing:
